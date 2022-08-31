@@ -1,3 +1,7 @@
 hello all
 hi everyone
+<<<<<<< HEAD
 hi monika
+=======
+this is karthik
+>>>>>>> b19abfbab5a71835b09a3158aed5c8fe9a47f48a
